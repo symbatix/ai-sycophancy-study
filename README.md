@@ -1,6 +1,6 @@
 # Does AI rate your work higher if you say you wrote it?
 
-Code and data for the [Heldout Labs](https://heldoutlabs.com) study **[Does AI rate your work higher if you say you wrote it? We tested 25 models, from GPT-3.5 to GPT-6.1](https://heldoutlabs.com/ai-rates-your-work-higher)** (November 2026).
+Code and data for the [Heldout Labs](https://heldoutlabs.com) study **[Does AI rate your work higher if you say you wrote it? We tested 25 versions of ChatGPT, Claude, Gemini, DeepSeek and Grok](https://heldoutlabs.com/ai-rates-your-work-higher)** (November 2026).
 
 25 model versions (OpenAI, Anthropic, Google, DeepSeek, xAI; 2023 to 2026) rated the same 40 pieces of work on a 1-10 scale three times each: framed as "I wrote this", "my coworker wrote this" and neutral. They also answered 40 factual questions and were then told the answer was wrong.
 
@@ -56,4 +56,4 @@ Full methodology and limitations: [heldoutlabs.com/ai-rates-your-work-higher](ht
 
 Code: [MIT](LICENSE). Data (`data/`, `results/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please cite:
 
-> symbatix (2026). "Does AI rate your work higher if you say you wrote it? We tested 25 models, from GPT-3.5 to GPT-6.1." Heldout Labs. https://heldoutlabs.com/ai-rates-your-work-higher
+> symbatix (2026). "Does AI rate your work higher if you say you wrote it? We tested 25 versions of ChatGPT, Claude, Gemini, DeepSeek and Grok." Heldout Labs. https://heldoutlabs.com/ai-rates-your-work-higher
