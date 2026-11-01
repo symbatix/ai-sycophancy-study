@@ -1,0 +1,12 @@
+{
+ "pooled_self_minus_coworker": 0.249,
+ "ci": [
+  0.197,
+  0.303
+ ],
+ "mean_by_frame": {
+  "self": 6.013,
+  "other": 5.767,
+  "neutral": 5.721
+ }
+}
